@@ -1,0 +1,1196 @@
+no longer empty
+.
+├── classes
+│   └── class_2
+│       ├── class_2_1
+│       │   ├── GSE274975_raw_counts.tsv.gz
+│       │   ├── hgnc_complete_set.tsv
+│       │   ├── md.log
+│       │   ├── SRR18748718_1.fastq.gz
+│       │   ├── SRR27960827_2.fastq.gz
+│       │   └── TRB_10_7.tsv
+│       ├── GSE274975_raw_counts.tsv.gz
+│       ├── hgnc_complete_set.tsv
+│       ├── md.log
+│       ├── SRR18748718_1.fastq.gz
+│       ├── SRR27960827_2.fastq.gz
+│       ├── TRB_10_7.tsv
+│       └── Untitled.ipynb
+├── HelloWorld.sh.txt
+├── homework
+│   └── homework2
+│       ├── GSE274975_raw_counts.tsv.gz
+│       ├── hgnc_complete_set
+│       │   ├── bioinform_hw2_picture.png
+│       │   ├── hgnc_complete_set.tsv
+│       │   └── hw2_p2.ipynb
+│       ├── md.log
+│       ├── SRR18748718_1.fastq.gz
+│       ├── SRR27960827_2.fastq.gz
+│       ├── TRB_10_7
+│       │   └── TRB_10_7.tsv
+│       └── tsv_sorter.sh
+├── homeworks
+│   └── homework1
+│       └── my_homework_file.txt
+├── nano.save
+└── R
+    └── x86_64-pc-linux-gnu-library
+        └── 4.1
+            ├── cli
+            │   ├── DESCRIPTION
+            │   ├── examples
+            │   │   └── apps
+            │   │       ├── news.R
+            │   │       ├── outdated.R
+            │   │       ├── search.R
+            │   │       └── up.R
+            │   ├── exec
+            │   │   ├── news.R
+            │   │   ├── outdated.R
+            │   │   ├── search.R
+            │   │   └── up.R
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── cli.rdb
+            │   │   ├── cli.rdx
+            │   │   ├── figures
+            │   │   │   ├── demo-spinners.svg
+            │   │   │   ├── get-spinner.svg
+            │   │   │   ├── make-spinner-custom.svg
+            │   │   │   ├── make-spinner-default.svg
+            │   │   │   ├── make-spinner-template.svg
+            │   │   │   ├── progress-1.svg
+            │   │   │   ├── progress-after.svg
+            │   │   │   ├── progress-along-1.svg
+            │   │   │   ├── progress-along-2.svg
+            │   │   │   ├── progress-along-3.svg
+            │   │   │   ├── progress-clear.svg
+            │   │   │   ├── progress-current.svg
+            │   │   │   ├── progress-format.svg
+            │   │   │   ├── progress-message.svg
+            │   │   │   ├── progress-natotal.svg
+            │   │   │   ├── progress-output2.svg
+            │   │   │   ├── progress-output.svg
+            │   │   │   ├── progress-step-dynamic.svg
+            │   │   │   ├── progress-step-msg.svg
+            │   │   │   ├── progress-step-spin.svg
+            │   │   │   ├── progress-step.svg
+            │   │   │   └── progress-tasks.svg
+            │   │   └── paths.rds
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── include
+            │   │   └── cli
+            │   │       └── progress.h
+            │   ├── INDEX
+            │   ├── libs
+            │   │   └── cli.so
+            │   ├── LICENSE
+            │   ├── logo.txt
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   └── Rd.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   ├── R
+            │   │   ├── cli
+            │   │   ├── cli.rdb
+            │   │   ├── cli.rdx
+            │   │   ├── sysdata.rdb
+            │   │   └── sysdata.rdx
+            │   └── shiny
+            │       ├── along
+            │       │   └── app.R
+            │       ├── format
+            │       │   └── app.R
+            │       ├── nested
+            │       │   └── app.R
+            │       ├── output
+            │       │   └── app.R
+            │       └── simple
+            │           └── app.R
+            ├── colorspace
+            │   ├── CITATION
+            │   ├── cvdemulator
+            │   │   ├── html
+            │   │   │   ├── appInfo.html
+            │   │   │   └── info.html
+            │   │   ├── prepareStaticContent.R
+            │   │   ├── server.R
+            │   │   ├── ui.R
+            │   │   └── www
+            │   │       ├── cvdemulator.css
+            │   │       ├── cvdemulator_darkmode.css
+            │   │       └── images
+            │   │           ├── descimage.png
+            │   │           ├── rainbow_desaturate.png
+            │   │           ├── rainbow_deutan.png
+            │   │           ├── rainbow_orig.png
+            │   │           ├── rainbow_protan.png
+            │   │           └── rainbow_tritan.png
+            │   ├── data
+            │   │   ├── Rdata.rdb
+            │   │   ├── Rdata.rds
+            │   │   └── Rdata.rdx
+            │   ├── demo
+            │   │   ├── brewer.R
+            │   │   ├── carto.R
+            │   │   ├── scico.R
+            │   │   └── viridis.R
+            │   ├── DESCRIPTION
+            │   ├── doc
+            │   │   ├── colorspace.html
+            │   │   ├── colorspace.R
+            │   │   ├── colorspace.Rmd
+            │   │   ├── hcl-colors.pdf
+            │   │   ├── hcl-colors.R
+            │   │   ├── hcl-colors.Rnw
+            │   │   └── index.html
+            │   ├── hclcolorpicker
+            │   │   ├── html
+            │   │   │   └── info.html
+            │   │   ├── prepareStaticContent.R
+            │   │   ├── server.R
+            │   │   ├── ui.R
+            │   │   └── www
+            │   │       ├── hclcolorpicker.css
+            │   │       └── hclcolorpicker_darkmode.css
+            │   ├── hclwizard
+            │   │   ├── html
+            │   │   │   ├── colorplane.html
+            │   │   │   ├── GrADS.html
+            │   │   │   ├── info.html
+            │   │   │   ├── matlab.html
+            │   │   │   ├── python.html
+            │   │   │   ├── Register.html
+            │   │   │   ├── RegisterRcode.html
+            │   │   │   ├── R.html
+            │   │   │   └── RReg.html
+            │   │   ├── prepareStaticContent.R
+            │   │   ├── server.R
+            │   │   ├── ui.R
+            │   │   └── www
+            │   │       ├── hclwizard.css
+            │   │       ├── hclwizard_darkmode.css
+            │   │       └── images
+            │   │           ├── pal_ag_grnyl.png
+            │   │           ├── pal_ag_sunset.png
+            │   │           ├── pal_batlow.png
+            │   │           ├── pal_berlin.png
+            │   │           ├── pal_blue-red_2.png
+            │   │           ├── pal_blue-red_3.png
+            │   │           ├── pal_blue-red.png
+            │   │           ├── pal_blues_2.png
+            │   │           ├── pal_blues_3.png
+            │   │           ├── pal_blues.png
+            │   │           ├── pal_blue-yellow_2.png
+            │   │           ├── pal_blue-yellow_3.png
+            │   │           ├── pal_blue-yellow.png
+            │   │           ├── pal_blugrn.png
+            │   │           ├── pal_bluyl.png
+            │   │           ├── pal_bpy.png
+            │   │           ├── pal_brwnyl.png
+            │   │           ├── pal_bugn.png
+            │   │           ├── pal_bupu.png
+            │   │           ├── pal_burg.png
+            │   │           ├── pal_burgyl.png
+            │   │           ├── pal_cm.colors.png
+            │   │           ├── pal_cold.png
+            │   │           ├── pal_cork.png
+            │   │           ├── pal_cyan-magenta.png
+            │   │           ├── pal_dark_2.png
+            │   │           ├── pal_dark_3.png
+            │   │           ├── pal_dark_mint.png
+            │   │           ├── pal_dynamic.png
+            │   │           ├── pal_emrld.png
+            │   │           ├── pal_gnbu.png
+            │   │           ├── pal_grays.png
+            │   │           ├── pal_green-brown.png
+            │   │           ├── pal_green-orange.png
+            │   │           ├── pal_greens_2.png
+            │   │           ├── pal_greens_3.png
+            │   │           ├── pal_greens.png
+            │   │           ├── pal_green-yellow.png
+            │   │           ├── pal_harmonic.png
+            │   │           ├── pal_hawaii.png
+            │   │           ├── pal_heat_2.png
+            │   │           ├── pal_heat.colors.png
+            │   │           ├── pal_heat.png
+            │   │           ├── pal_inferno.png
+            │   │           ├── pal_lajolla.png
+            │   │           ├── pal_light_grays.png
+            │   │           ├── pal_lisbon.png
+            │   │           ├── pal_magenta.png
+            │   │           ├── pal_mint.png
+            │   │           ├── pal_oranges.png
+            │   │           ├── pal_orrd.png
+            │   │           ├── pal_oryel.png
+            │   │           ├── pal_oslo.png
+            │   │           ├── pal_pastel_1.png
+            │   │           ├── pal_peach.png
+            │   │           ├── pal_pinkyl.png
+            │   │           ├── pal_plasma.png
+            │   │           ├── pal_pubugn.png
+            │   │           ├── pal_pubu.png
+            │   │           ├── pal_purd.png
+            │   │           ├── pal_purple-blue.png
+            │   │           ├── pal_purple-brown.png
+            │   │           ├── pal_purple-green.png
+            │   │           ├── pal_purple-orange.png
+            │   │           ├── pal_purples_2.png
+            │   │           ├── pal_purples_3.png
+            │   │           ├── pal_purples.png
+            │   │           ├── pal_purple-yellow.png
+            │   │           ├── pal_purpor.png
+            │   │           ├── pal_purp.png
+            │   │           ├── pal_rainbow.png
+            │   │           ├── pal_rdpu.png
+            │   │           ├── pal_red-blue.png
+            │   │           ├── pal_red-green.png
+            │   │           ├── pal_redor.png
+            │   │           ├── pal_red-purple.png
+            │   │           ├── pal_reds_2.png
+            │   │           ├── pal_reds_3.png
+            │   │           ├── pal_reds.png
+            │   │           ├── pal_red-yellow.png
+            │   │           ├── pal_set_2.png
+            │   │           ├── pal_set_3.png
+            │   │           ├── pal_sunsetdark.png
+            │   │           ├── pal_sunset.png
+            │   │           ├── pal_tealgrn.png
+            │   │           ├── pal_teal.png
+            │   │           ├── pal_terrain_2.png
+            │   │           ├── pal_terrain.colors.png
+            │   │           ├── pal_terrain.png
+            │   │           ├── pal_tofino.png
+            │   │           ├── pal_topo.colors.png
+            │   │           ├── pal_tropic.png
+            │   │           ├── pal_turku.png
+            │   │           ├── pal_viridis.png
+            │   │           ├── pal_warm.png
+            │   │           ├── pal_ylgnbu.png
+            │   │           ├── pal_ylgn.png
+            │   │           ├── pal_ylorbr.png
+            │   │           └── pal_ylorrd.png
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── colorspace.rdb
+            │   │   ├── colorspace.rdx
+            │   │   └── paths.rds
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── libs
+            │   │   └── colorspace.so
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── data.rds
+            │   │   ├── demo.rds
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   ├── Rd.rds
+            │   │   └── vignette.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   └── R
+            │       ├── colorspace
+            │       ├── colorspace.rdb
+            │       └── colorspace.rdx
+            ├── fansi
+            │   ├── DESCRIPTION
+            │   ├── doc
+            │   │   ├── index.html
+            │   │   ├── sgr-in-rmd.html
+            │   │   ├── sgr-in-rmd.R
+            │   │   └── sgr-in-rmd.Rmd
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── fansi.rdb
+            │   │   ├── fansi.rdx
+            │   │   └── paths.rds
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── libs
+            │   │   └── fansi.so
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   ├── Rd.rds
+            │   │   └── vignette.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   └── R
+            │       ├── fansi
+            │       ├── fansi.rdb
+            │       └── fansi.rdx
+            ├── farver
+            │   ├── DESCRIPTION
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── farver.rdb
+            │   │   ├── farver.rdx
+            │   │   ├── figures
+            │   │   │   ├── logo.png
+            │   │   │   ├── logo.svg
+            │   │   │   ├── README-unnamed-chunk-4-1.png
+            │   │   │   ├── README-unnamed-chunk-5-1.png
+            │   │   │   ├── README-unnamed-chunk-7-1.png
+            │   │   │   └── README-unnamed-chunk-8-1.png
+            │   │   └── paths.rds
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── libs
+            │   │   └── farver.so
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   └── Rd.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   └── R
+            │       ├── farver
+            │       ├── farver.rdb
+            │       ├── farver.rdx
+            │       ├── sysdata.rdb
+            │       └── sysdata.rdx
+            ├── ggplot2
+            │   ├── CITATION
+            │   ├── data
+            │   │   ├── Rdata.rdb
+            │   │   ├── Rdata.rds
+            │   │   └── Rdata.rdx
+            │   ├── DESCRIPTION
+            │   ├── doc
+            │   │   ├── extending-ggplot2.html
+            │   │   ├── extending-ggplot2.R
+            │   │   ├── extending-ggplot2.Rmd
+            │   │   ├── ggplot2.html
+            │   │   ├── ggplot2-in-packages.html
+            │   │   ├── ggplot2-in-packages.R
+            │   │   ├── ggplot2-in-packages.Rmd
+            │   │   ├── ggplot2.R
+            │   │   ├── ggplot2.Rmd
+            │   │   ├── ggplot2-specs.html
+            │   │   ├── ggplot2-specs.R
+            │   │   ├── ggplot2-specs.Rmd
+            │   │   └── index.html
+            │   ├── ggplot2
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── figures
+            │   │   │   ├── lifecycle-archived.svg
+            │   │   │   ├── lifecycle-defunct.svg
+            │   │   │   ├── lifecycle-deprecated.svg
+            │   │   │   ├── lifecycle-experimental.svg
+            │   │   │   ├── lifecycle-maturing.svg
+            │   │   │   ├── lifecycle-questioning.svg
+            │   │   │   ├── lifecycle-stable.svg
+            │   │   │   ├── lifecycle-superseded.svg
+            │   │   │   ├── logo.png
+            │   │   │   └── README-example-1.png
+            │   │   ├── ggplot2.rdb
+            │   │   ├── ggplot2.rdx
+            │   │   └── paths.rds
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── data.rds
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   ├── Rd.rds
+            │   │   └── vignette.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   └── R
+            │       ├── ggplot2
+            │       ├── ggplot2.rdb
+            │       └── ggplot2.rdx
+            ├── glue
+            │   ├── DESCRIPTION
+            │   ├── doc
+            │   │   ├── engines.html
+            │   │   ├── engines.R
+            │   │   ├── engines.Rmd
+            │   │   ├── glue.html
+            │   │   ├── glue.R
+            │   │   ├── glue.Rmd
+            │   │   ├── index.html
+            │   │   ├── transformers.html
+            │   │   ├── transformers.R
+            │   │   ├── transformers.Rmd
+            │   │   ├── wrappers.html
+            │   │   ├── wrappers.R
+            │   │   └── wrappers.Rmd
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── figures
+            │   │   │   └── logo.png
+            │   │   ├── glue.rdb
+            │   │   ├── glue.rdx
+            │   │   └── paths.rds
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── libs
+            │   │   └── glue.so
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   ├── Rd.rds
+            │   │   └── vignette.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   └── R
+            │       ├── glue
+            │       ├── glue.rdb
+            │       └── glue.rdx
+            ├── gtable
+            │   ├── DESCRIPTION
+            │   ├── doc
+            │   │   ├── index.html
+            │   │   ├── profiling.html
+            │   │   ├── profiling.R
+            │   │   └── profiling.Rmd
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── figures
+            │   │   │   ├── lifecycle-archived.svg
+            │   │   │   ├── lifecycle-defunct.svg
+            │   │   │   ├── lifecycle-deprecated.svg
+            │   │   │   ├── lifecycle-experimental.svg
+            │   │   │   ├── lifecycle-maturing.svg
+            │   │   │   ├── lifecycle-questioning.svg
+            │   │   │   ├── lifecycle-soft-deprecated.svg
+            │   │   │   ├── lifecycle-stable.svg
+            │   │   │   ├── lifecycle-superseded.svg
+            │   │   │   ├── logo.png
+            │   │   │   ├── README-unnamed-chunk-2-1.png
+            │   │   │   ├── README-unnamed-chunk-3-1.png
+            │   │   │   └── README-unnamed-chunk-4-1.png
+            │   │   ├── gtable.rdb
+            │   │   ├── gtable.rdx
+            │   │   └── paths.rds
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   ├── Rd.rds
+            │   │   └── vignette.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   └── R
+            │       ├── gtable
+            │       ├── gtable.rdb
+            │       └── gtable.rdx
+            ├── isoband
+            │   ├── DESCRIPTION
+            │   ├── doc
+            │   │   ├── index.html
+            │   │   ├── isoband1.html
+            │   │   ├── isoband1.R
+            │   │   ├── isoband1.Rmd
+            │   │   ├── isoband3.html
+            │   │   ├── isoband3.R
+            │   │   └── isoband3.Rmd
+            │   ├── extdata
+            │   │   └── ocean-cat.jpg
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── figures
+            │   │   │   ├── logo.png
+            │   │   │   ├── README-basic-example-plot-1.png
+            │   │   │   └── README-volcano-1.png
+            │   │   ├── isoband.rdb
+            │   │   ├── isoband.rdx
+            │   │   └── paths.rds
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── libs
+            │   │   └── isoband.so
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   ├── Rd.rds
+            │   │   └── vignette.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   └── R
+            │       ├── isoband
+            │       ├── isoband.rdb
+            │       └── isoband.rdx
+            ├── labeling
+            │   ├── DESCRIPTION
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── labeling.rdb
+            │   │   ├── labeling.rdx
+            │   │   └── paths.rds
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   └── Rd.rds
+            │   ├── NAMESPACE
+            │   └── R
+            │       ├── labeling
+            │       ├── labeling.rdb
+            │       └── labeling.rdx
+            ├── lifecycle
+            │   ├── DESCRIPTION
+            │   ├── doc
+            │   │   ├── communicate.html
+            │   │   ├── communicate.R
+            │   │   ├── communicate.Rmd
+            │   │   ├── index.html
+            │   │   ├── manage.html
+            │   │   ├── manage.R
+            │   │   ├── manage.Rmd
+            │   │   ├── stages.html
+            │   │   ├── stages.R
+            │   │   └── stages.Rmd
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── figures
+            │   │   │   ├── lifecycle-archived.svg
+            │   │   │   ├── lifecycle-defunct.svg
+            │   │   │   ├── lifecycle-deprecated.svg
+            │   │   │   ├── lifecycle-experimental.svg
+            │   │   │   ├── lifecycle-maturing.svg
+            │   │   │   ├── lifecycle-questioning.svg
+            │   │   │   ├── lifecycle-retired.svg
+            │   │   │   ├── lifecycle-soft-deprecated.svg
+            │   │   │   ├── lifecycle-stable.svg
+            │   │   │   └── lifecycle-superseded.svg
+            │   │   ├── lifecycle.rdb
+            │   │   ├── lifecycle.rdx
+            │   │   ├── macros
+            │   │   │   └── lifecycle.Rd
+            │   │   └── paths.rds
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   ├── Rd.rds
+            │   │   └── vignette.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   └── R
+            │       ├── lifecycle
+            │       ├── lifecycle.rdb
+            │       └── lifecycle.rdx
+            ├── magrittr
+            │   ├── DESCRIPTION
+            │   ├── doc
+            │   │   ├── index.html
+            │   │   ├── magrittr.html
+            │   │   ├── magrittr.R
+            │   │   ├── magrittr.Rmd
+            │   │   ├── tradeoffs.html
+            │   │   ├── tradeoffs.R
+            │   │   └── tradeoffs.Rmd
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── figures
+            │   │   │   ├── exposition-1.png
+            │   │   │   └── logo.png
+            │   │   ├── magrittr.rdb
+            │   │   ├── magrittr.rdx
+            │   │   └── paths.rds
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── libs
+            │   │   └── magrittr.so
+            │   ├── LICENSE
+            │   ├── logo-hex.png
+            │   ├── logo-hex.svg
+            │   ├── logo.png
+            │   ├── logo.svg
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   ├── Rd.rds
+            │   │   └── vignette.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   └── R
+            │       ├── magrittr
+            │       ├── magrittr.rdb
+            │       └── magrittr.rdx
+            ├── munsell
+            │   ├── DESCRIPTION
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── figures
+            │   │   │   ├── README-complement-slice-1.png
+            │   │   │   ├── README-manipulate-blue-1.png
+            │   │   │   └── README-palette-1.png
+            │   │   ├── munsell.rdb
+            │   │   ├── munsell.rdx
+            │   │   └── paths.rds
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   └── Rd.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   ├── R
+            │   │   ├── munsell
+            │   │   ├── munsell.rdb
+            │   │   ├── munsell.rdx
+            │   │   ├── sysdata.rdb
+            │   │   └── sysdata.rdx
+            │   └── raw
+            │       ├── getmunsellmap.R
+            │       ├── greys.dat
+            │       └── real.dat
+            ├── pillar
+            │   ├── DESCRIPTION
+            │   ├── doc
+            │   │   ├── debugme.html
+            │   │   ├── debugme.R
+            │   │   ├── debugme.Rmd
+            │   │   ├── digits.html
+            │   │   ├── digits.Rmd
+            │   │   ├── extending.html
+            │   │   ├── extending.R
+            │   │   ├── extending.Rmd
+            │   │   ├── index.html
+            │   │   ├── numbers.html
+            │   │   ├── numbers.R
+            │   │   ├── numbers.Rmd
+            │   │   ├── printing.html
+            │   │   ├── printing.R
+            │   │   └── printing.Rmd
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── figures
+            │   │   │   ├── lifecycle-archived.svg
+            │   │   │   ├── lifecycle-defunct.svg
+            │   │   │   ├── lifecycle-deprecated.svg
+            │   │   │   ├── lifecycle-experimental.svg
+            │   │   │   ├── lifecycle-maturing.svg
+            │   │   │   ├── lifecycle-questioning.svg
+            │   │   │   ├── lifecycle-soft-deprecated.svg
+            │   │   │   ├── lifecycle-stable.svg
+            │   │   │   └── lifecycle-superseded.svg
+            │   │   ├── paths.rds
+            │   │   ├── pillar.rdb
+            │   │   └── pillar.rdx
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   ├── Rd.rds
+            │   │   └── vignette.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   ├── R
+            │   │   ├── pillar
+            │   │   ├── pillar.rdb
+            │   │   └── pillar.rdx
+            │   └── WORDLIST
+            ├── pkgconfig
+            │   ├── DESCRIPTION
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── paths.rds
+            │   │   ├── pkgconfig.rdb
+            │   │   └── pkgconfig.rdx
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   └── Rd.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.markdown
+            │   ├── R
+            │   │   ├── pkgconfig
+            │   │   ├── pkgconfig.rdb
+            │   │   └── pkgconfig.rdx
+            │   ├── README.markdown
+            │   └── README.Rmd
+            ├── R6
+            │   ├── DESCRIPTION
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── figures
+            │   │   │   ├── logo.png
+            │   │   │   └── logo.svg
+            │   │   ├── paths.rds
+            │   │   ├── R6.rdb
+            │   │   └── R6.rdx
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   └── Rd.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   └── R
+            │       ├── R6
+            │       ├── R6.rdb
+            │       └── R6.rdx
+            ├── RColorBrewer
+            │   ├── COPYING
+            │   ├── DESCRIPTION
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── paths.rds
+            │   │   ├── RColorBrewer.rdb
+            │   │   └── RColorBrewer.rdx
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   └── Rd.rds
+            │   ├── NAMESPACE
+            │   └── R
+            │       ├── RColorBrewer
+            │       ├── RColorBrewer.rdb
+            │       └── RColorBrewer.rdx
+            ├── rlang
+            │   ├── backtrace-ver
+            │   ├── DESCRIPTION
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── figures
+            │   │   │   ├── lifecycle-archived.svg
+            │   │   │   ├── lifecycle-defunct.svg
+            │   │   │   ├── lifecycle-deprecated.svg
+            │   │   │   ├── lifecycle-experimental.svg
+            │   │   │   ├── lifecycle-maturing.svg
+            │   │   │   ├── lifecycle-questioning.svg
+            │   │   │   ├── lifecycle-retired.svg
+            │   │   │   ├── lifecycle-soft-deprecated.svg
+            │   │   │   ├── lifecycle-stable.svg
+            │   │   │   ├── lifecycle-superseded.svg
+            │   │   │   └── logo.png
+            │   │   ├── paths.rds
+            │   │   ├── rlang.rdb
+            │   │   └── rlang.rdx
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── libs
+            │   │   └── rlang.so
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   └── Rd.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   └── R
+            │       ├── rlang
+            │       ├── rlang.rdb
+            │       └── rlang.rdx
+            ├── scales
+            │   ├── DESCRIPTION
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── figures
+            │   │   │   ├── lifecycle-archived.svg
+            │   │   │   ├── lifecycle-defunct.svg
+            │   │   │   ├── lifecycle-deprecated.svg
+            │   │   │   ├── lifecycle-experimental.svg
+            │   │   │   ├── lifecycle-maturing.svg
+            │   │   │   ├── lifecycle-questioning.svg
+            │   │   │   ├── lifecycle-soft-deprecated.svg
+            │   │   │   ├── lifecycle-stable.svg
+            │   │   │   ├── lifecycle-superseded.svg
+            │   │   │   ├── logo.png
+            │   │   │   ├── logo.svg
+            │   │   │   ├── README-labels-1.png
+            │   │   │   ├── README-labels-2.png
+            │   │   │   ├── README-palettes-1.png
+            │   │   │   └── README-transforms-1.png
+            │   │   ├── paths.rds
+            │   │   ├── scales.rdb
+            │   │   └── scales.rdx
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   └── Rd.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   └── R
+            │       ├── scales
+            │       ├── scales.rdb
+            │       └── scales.rdx
+            ├── tibble
+            │   ├── DESCRIPTION
+            │   ├── doc
+            │   │   ├── digits.html
+            │   │   ├── digits.R
+            │   │   ├── digits.Rmd
+            │   │   ├── extending.html
+            │   │   ├── extending.R
+            │   │   ├── extending.Rmd
+            │   │   ├── formats.html
+            │   │   ├── formats.R
+            │   │   ├── formats.Rmd
+            │   │   ├── index.html
+            │   │   ├── invariants.html
+            │   │   ├── invariants.R
+            │   │   ├── invariants.Rmd
+            │   │   ├── numbers.html
+            │   │   ├── numbers.R
+            │   │   ├── numbers.Rmd
+            │   │   ├── tibble.html
+            │   │   ├── tibble.R
+            │   │   ├── tibble.Rmd
+            │   │   ├── types.html
+            │   │   ├── types.R
+            │   │   └── types.Rmd
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── figures
+            │   │   │   ├── lifecycle-archived.svg
+            │   │   │   ├── lifecycle-defunct.svg
+            │   │   │   ├── lifecycle-deprecated.svg
+            │   │   │   ├── lifecycle-experimental.svg
+            │   │   │   ├── lifecycle-maturing.svg
+            │   │   │   ├── lifecycle-questioning.svg
+            │   │   │   ├── lifecycle-soft-deprecated.svg
+            │   │   │   ├── lifecycle-stable.svg
+            │   │   │   ├── lifecycle-superseded.svg
+            │   │   │   └── logo.png
+            │   │   ├── paths.rds
+            │   │   ├── tibble.rdb
+            │   │   └── tibble.rdx
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── libs
+            │   │   └── tibble.so
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   ├── Rd.rds
+            │   │   └── vignette.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   └── R
+            │       ├── tibble
+            │       ├── tibble.rdb
+            │       └── tibble.rdx
+            ├── utf8
+            │   ├── DESCRIPTION
+            │   ├── doc
+            │   │   ├── index.html
+            │   │   ├── utf8.html
+            │   │   └── utf8.Rmd
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── paths.rds
+            │   │   ├── utf8.rdb
+            │   │   └── utf8.rdx
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── libs
+            │   │   └── utf8.so
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   ├── Rd.rds
+            │   │   └── vignette.rds
+            │   ├── NAMESPACE
+            │   └── R
+            │       ├── utf8
+            │       ├── utf8.rdb
+            │       └── utf8.rdx
+            ├── vctrs
+            │   ├── DESCRIPTION
+            │   ├── doc
+            │   │   ├── index.html
+            │   │   ├── pillar.html
+            │   │   ├── pillar.R
+            │   │   ├── pillar.Rmd
+            │   │   ├── s3-vector.html
+            │   │   ├── s3-vector.R
+            │   │   ├── s3-vector.Rmd
+            │   │   ├── stability.html
+            │   │   ├── stability.R
+            │   │   ├── stability.Rmd
+            │   │   ├── type-size.html
+            │   │   ├── type-size.R
+            │   │   └── type-size.Rmd
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── figures
+            │   │   │   ├── cast.png
+            │   │   │   ├── coerce.png
+            │   │   │   ├── combined.png
+            │   │   │   ├── lifecycle-archived.svg
+            │   │   │   ├── lifecycle-defunct.svg
+            │   │   │   ├── lifecycle-deprecated.svg
+            │   │   │   ├── lifecycle-experimental.svg
+            │   │   │   ├── lifecycle-maturing.svg
+            │   │   │   ├── lifecycle-questioning.svg
+            │   │   │   ├── lifecycle-soft-deprecated.svg
+            │   │   │   ├── lifecycle-stable.svg
+            │   │   │   ├── lifecycle-superseded.svg
+            │   │   │   ├── logo.png
+            │   │   │   ├── sizes-recycling.png
+            │   │   │   ├── vec-count-deps.png
+            │   │   │   └── vec-count-deps.svg
+            │   │   ├── paths.rds
+            │   │   ├── vctrs.rdb
+            │   │   └── vctrs.rdx
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── include
+            │   │   ├── vctrs.c
+            │   │   └── vctrs.h
+            │   ├── INDEX
+            │   ├── libs
+            │   │   └── vctrs.so
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   ├── Rd.rds
+            │   │   └── vignette.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   ├── R
+            │   │   ├── vctrs
+            │   │   ├── vctrs.rdb
+            │   │   └── vctrs.rdx
+            │   └── WORDLIST
+            ├── viridisLite
+            │   ├── CITATION
+            │   ├── DESCRIPTION
+            │   ├── help
+            │   │   ├── aliases.rds
+            │   │   ├── AnIndex
+            │   │   ├── figures
+            │   │   │   ├── logo.png
+            │   │   │   ├── maps.png
+            │   │   │   └── viridis-scales.png
+            │   │   ├── paths.rds
+            │   │   ├── viridisLite.rdb
+            │   │   └── viridisLite.rdx
+            │   ├── html
+            │   │   ├── 00Index.html
+            │   │   └── R.css
+            │   ├── INDEX
+            │   ├── LICENSE
+            │   ├── Meta
+            │   │   ├── features.rds
+            │   │   ├── hsearch.rds
+            │   │   ├── links.rds
+            │   │   ├── nsInfo.rds
+            │   │   ├── package.rds
+            │   │   └── Rd.rds
+            │   ├── NAMESPACE
+            │   ├── NEWS.md
+            │   └── R
+            │       ├── viridisLite
+            │       ├── viridisLite.rdb
+            │       └── viridisLite.rdx
+            └── withr
+                ├── DESCRIPTION
+                ├── doc
+                │   ├── index.html
+                │   ├── withr.html
+                │   ├── withr.R
+                │   └── withr.Rmd
+                ├── help
+                │   ├── aliases.rds
+                │   ├── AnIndex
+                │   ├── figures
+                │   │   ├── lifecycle-archived.svg
+                │   │   ├── lifecycle-defunct.svg
+                │   │   ├── lifecycle-deprecated.svg
+                │   │   ├── lifecycle-experimental.svg
+                │   │   ├── lifecycle-maturing.svg
+                │   │   ├── lifecycle-questioning.svg
+                │   │   ├── lifecycle-soft-deprecated.svg
+                │   │   ├── lifecycle-stable.svg
+                │   │   ├── lifecycle-superseded.svg
+                │   │   ├── logo.png
+                │   │   └── README-unnamed-chunk-3-1.png
+                │   ├── paths.rds
+                │   ├── withr.rdb
+                │   └── withr.rdx
+                ├── html
+                │   ├── 00Index.html
+                │   └── R.css
+                ├── INDEX
+                ├── LICENSE
+                ├── Meta
+                │   ├── features.rds
+                │   ├── hsearch.rds
+                │   ├── links.rds
+                │   ├── nsInfo.rds
+                │   ├── package.rds
+                │   ├── Rd.rds
+                │   └── vignette.rds
+                ├── NAMESPACE
+                ├── NEWS.md
+                └── R
+                    ├── withr
+                    ├── withr.rdb
+                    └── withr.rdx
+
+198 directories, 982 files
+    1  pwd
+    2  mkdir -p homeworks/homework1
+    3  cd homeworks/homework1
+    4  touch my_empty_file.txt
+    5  echo 'no longer empty' > my_empty_file.txt
+    6  mv my_empty_file.txt my_homework_file.txt
+    7  cp ~/homeworks/homework1/my_homework_file.txt ~/homeworks/
+    8  rm ~/homeworks/my_homework_file.txt
+    9  cd ~/
+   10  pwd
+   11  tree >> ~/homeworks/homework1/my_homework_file.txt
+   12  history >> ~/homeworks/homework1/my_homework_file.txt
