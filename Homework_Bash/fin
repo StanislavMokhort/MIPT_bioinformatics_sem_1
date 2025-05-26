@@ -1,0 +1,5 @@
+username:password:uid:gid:gecos:home:shell
+alice:password123:1000:1000:Alice Smith:/home/alice:/bin/bash
+bob:password456:1001:1001:Bob Johnson:/home/bob:/bin/bash
+charlie:password789:1002:1002:Charlie Brown:/home/charlie:/bin/dash
+dave:password101:1003:1003:Dave Wilson:/home/dave:/bin/zsh

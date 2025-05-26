@@ -1,0 +1,67 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_001108454.1       -          P53                  PF00870.23     5e-66  225.1   0.0   8.7e-66  224.3   0.0   1.4   1   0   0   1   1   1   1 tumor protein 63 isoform 6 [Homo sapiens]
+NP_001316078.1       -          P53                  PF00870.23   5.5e-66  225.0   0.0   9.7e-66  224.2   0.0   1.4   1   0   0   1   1   1   1 tumor protein 63 isoform 11 [Homo sapiens]
+NP_001316074.1       -          P53                  PF00870.23   5.7e-66  224.9   0.0   9.9e-66  224.1   0.0   1.4   1   0   0   1   1   1   1 tumor protein 63 isoform 8 [Homo sapiens]
+NP_001108453.1       -          P53                  PF00870.23   7.5e-66  224.5   0.0   1.3e-65  223.8   0.0   1.4   1   0   0   1   1   1   1 tumor protein 63 isoform 5 [Homo sapiens]
+NP_001108451.1       -          P53                  PF00870.23   8.4e-66  224.4   0.0   1.4e-65  223.6   0.0   1.4   1   0   0   1   1   1   1 tumor protein 63 isoform 3 [Homo sapiens]
+NP_001316073.1       -          P53                  PF00870.23   9.1e-66  224.3   0.0   1.6e-65  223.5   0.0   1.4   1   0   0   1   1   1   1 tumor protein 63 isoform 7 [Homo sapiens]
+NP_001108450.1       -          P53                  PF00870.23   1.1e-65  224.0   0.0   1.9e-65  223.2   0.0   1.4   1   0   0   1   1   1   1 tumor protein 63 isoform 2 [Homo sapiens]
+NP_001108452.1       -          P53                  PF00870.23   1.2e-65  223.9   0.0   2.1e-65  223.1   0.0   1.4   1   0   0   1   1   1   1 tumor protein 63 isoform 4 [Homo sapiens]
+NP_001316077.1       -          P53                  PF00870.23   1.6e-65  223.5   0.0   2.8e-65  222.7   0.0   1.4   1   0   0   1   1   1   1 tumor protein 63 isoform 10 [Homo sapiens]
+NP_001316893.1       -          P53                  PF00870.23   1.6e-65  223.5   0.0   2.8e-65  222.7   0.0   1.4   1   0   0   1   1   1   1 tumor protein 63 isoform 13 [Homo sapiens]
+NP_003713.3          -          P53                  PF00870.23   1.6e-65  223.5   0.0   2.8e-65  222.7   0.0   1.4   1   0   0   1   1   1   1 tumor protein 63 isoform 1 [Homo sapiens]
+NP_001191115.1       -          P53                  PF00870.23   9.4e-65  221.0   0.0   1.8e-64  220.0   0.0   1.5   2   0   0   2   2   1   1 tumor protein p73 isoform j [Homo sapiens]
+NP_001191118.1       -          P53                  PF00870.23   9.9e-65  220.9   0.0   1.3e-64  220.5   0.0   1.2   1   0   0   1   1   1   1 tumor protein p73 isoform e [Homo sapiens]
+NP_001191114.1       -          P53                  PF00870.23   1.4e-64  220.4   0.0   2.7e-64  219.5   0.0   1.4   1   0   0   1   1   1   1 tumor protein p73 isoform i [Homo sapiens]
+NP_001119714.1       -          P53                  PF00870.23   1.5e-64  220.3   0.0   2.1e-64  219.8   0.0   1.2   1   0   0   1   1   1   1 tumor protein p73 isoform d [Homo sapiens]
+NP_001191113.1       -          P53                  PF00870.23   1.7e-64  220.2   0.0     3e-64  219.3   0.0   1.4   1   0   0   1   1   1   1 tumor protein p73 isoform h [Homo sapiens]
+NP_001119713.1       -          P53                  PF00870.23   1.8e-64  220.1   0.0   2.4e-64  219.6   0.0   1.2   1   0   0   1   1   1   1 tumor protein p73 isoform c [Homo sapiens]
+NP_001191117.1       -          P53                  PF00870.23   1.9e-64  220.0   0.0   3.5e-64  219.1   0.0   1.5   1   0   0   1   1   1   1 tumor protein p73 isoform l [Homo sapiens]
+NP_001191116.1       -          P53                  PF00870.23     2e-64  219.9   0.0   3.7e-64  219.0   0.0   1.5   1   0   0   1   1   1   1 tumor protein p73 isoform k [Homo sapiens]
+NP_001191120.1       -          P53                  PF00870.23     2e-64  219.9   0.0   2.9e-64  219.4   0.0   1.2   1   0   0   1   1   1   1 tumor protein p73 isoform g [Homo sapiens]
+NP_001191119.1       -          P53                  PF00870.23   2.1e-64  219.8   0.0   3.1e-64  219.3   0.0   1.2   1   0   0   1   1   1   1 tumor protein p73 isoform f [Homo sapiens]
+NP_001191121.1       -          P53                  PF00870.23   2.7e-64  219.4   0.0   3.9e-64  218.9   0.0   1.2   1   0   0   1   1   1   1 tumor protein p73 isoform m [Homo sapiens]
+NP_005418.1          -          P53                  PF00870.23   2.7e-64  219.4   0.0   4.9e-64  218.6   0.0   1.4   1   0   0   1   1   1   1 tumor protein p73 isoform a [Homo sapiens]
+XP_047285477.1       -          P53                  PF00870.23   2.7e-64  219.4   0.0   4.9e-64  218.6   0.0   1.4   1   0   0   1   1   1   1 tumor protein p73 isoform X1 [Homo sapiens]
+XP_047285480.1       -          P53                  PF00870.23   2.7e-64  219.4   0.0   4.9e-64  218.6   0.0   1.4   1   0   0   1   1   1   1 tumor protein p73 isoform X1 [Homo sapiens]
+NP_001119712.1       -          P53                  PF00870.23   2.9e-64  219.4   0.0   4.2e-64  218.8   0.0   1.2   1   0   0   1   1   1   1 tumor protein p73 isoform b [Homo sapiens]
+NP_001263625.1       -          P53                  PF00870.23     1e-62  214.3   0.1   1.2e-62  214.1   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform i [Homo sapiens]
+NP_001394198.1       -          P53                  PF00870.23     1e-62  214.3   0.1   1.2e-62  214.1   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform i [Homo sapiens]
+NP_001394200.1       -          P53                  PF00870.23     1e-62  214.3   0.1   1.2e-62  214.1   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform i [Homo sapiens]
+NP_001263624.1       -          P53                  PF00870.23   1.1e-62  214.2   0.1   1.3e-62  214.0   0.1   1.0   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform h [Homo sapiens]
+NP_001119586.1       -          P53                  PF00870.23   1.4e-62  213.8   0.1   1.7e-62  213.6   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform b [Homo sapiens]
+NP_001394197.1       -          P53                  PF00870.23   1.4e-62  213.8   0.1   1.7e-62  213.6   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform b [Homo sapiens]
+NP_001394199.1       -          P53                  PF00870.23   1.4e-62  213.8   0.1   1.7e-62  213.6   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform b [Homo sapiens]
+NP_001119585.1       -          P53                  PF00870.23   1.5e-62  213.8   0.1   1.8e-62  213.5   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform c [Homo sapiens]
+NP_001119590.1       -          P53                  PF00870.23   1.5e-62  213.8   0.1   1.9e-62  213.4   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform g [Homo sapiens]
+NP_001263689.1       -          P53                  PF00870.23   1.5e-62  213.8   0.1   1.9e-62  213.4   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform g [Homo sapiens]
+NP_001263690.1       -          P53                  PF00870.23   1.5e-62  213.8   0.1   1.9e-62  213.4   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform g [Homo sapiens]
+NP_001394192.1       -          P53                  PF00870.23   1.5e-62  213.8   0.1   1.9e-62  213.4   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform g [Homo sapiens]
+NP_001394194.1       -          P53                  PF00870.23   1.5e-62  213.8   0.1   1.9e-62  213.4   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform g [Homo sapiens]
+NP_001394196.1       -          P53                  PF00870.23   1.5e-62  213.8   0.1   1.9e-62  213.4   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform g [Homo sapiens]
+NP_000537.3          -          P53                  PF00870.23     2e-62  213.4   0.1   2.5e-62  213.0   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform a [Homo sapiens]
+NP_001119584.1       -          P53                  PF00870.23     2e-62  213.4   0.1   2.5e-62  213.0   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform a [Homo sapiens]
+NP_001394191.1       -          P53                  PF00870.23     2e-62  213.4   0.1   2.5e-62  213.0   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform a [Homo sapiens]
+NP_001394193.1       -          P53                  PF00870.23     2e-62  213.4   0.1   2.5e-62  213.0   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform a [Homo sapiens]
+NP_001394195.1       -          P53                  PF00870.23     2e-62  213.4   0.1   2.5e-62  213.0   0.1   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform a [Homo sapiens]
+NP_001316079.1       -          P53                  PF00870.23   7.8e-59  201.7   0.1   7.8e-59  201.7   0.1   1.4   2   0   0   2   2   1   1 tumor protein 63 isoform 12 [Homo sapiens]
+NP_001316075.1       -          P53                  PF00870.23   1.1e-58  201.2   0.1   2.1e-58  200.2   0.1   1.4   1   0   0   1   1   1   1 tumor protein 63 isoform 9 [Homo sapiens]
+NP_001119588.1       -          P53                  PF00870.23   1.4e-53  184.5   0.3   1.7e-53  184.2   0.3   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform e [Homo sapiens]
+NP_001119589.1       -          P53                  PF00870.23   1.5e-53  184.4   0.3   1.8e-53  184.1   0.3   1.0   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform f [Homo sapiens]
+NP_001119587.1       -          P53                  PF00870.23   2.6e-53  183.7   0.3   3.3e-53  183.3   0.3   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform d [Homo sapiens]
+NP_001263627.1       -          P53                  PF00870.23     2e-44  154.6   0.9   2.4e-44  154.4   0.9   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform k [Homo sapiens]
+NP_001263628.1       -          P53                  PF00870.23   2.2e-44  154.5   0.9   2.6e-44  154.2   0.9   1.1   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform l [Homo sapiens]
+NP_001263626.1       -          P53                  PF00870.23   3.8e-44  153.7   0.9     5e-44  153.3   0.9   1.2   1   0   0   1   1   1   1 cellular tumor antigen p53 isoform j [Homo sapiens]
+XP_011508307.1       -          P53                  PF00870.23      0.97   12.1   0.8        80    5.9   0.2   2.6   2   0   0   2   2   2   0 maestro heat-like repeat-containing protein family member 9 isoform X1 [Homo sapiens]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      PF00870.hmm
+# Target file:     protein_human.faa
+# Option settings: hmmsearch --tblout human_hmm.txt PF00870.hmm protein_human.faa 
+# Current dir:     /home/smokhort/MIPT_bioinformatics_sem_1/Homework_HMM
+# Date:            Thu May 22 18:11:33 2025
+# [ok]
